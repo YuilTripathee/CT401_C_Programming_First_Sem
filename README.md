@@ -32,15 +32,16 @@ About the practical,
 Course specification suggest the programming part starts from Unit 4. In accordance with that here’s our drafter project structure.
 
 ```txt
-.
-├── 1_Intro
-├── 2_Basic_IO
-├── 3_Control_Statements
-├── 4_Functions
-├── 5_Arrays_Strings
-├── 6_Structures
-├── 7_Pointers
-├── 8_File_IO
+C:.
+├───.vscode
+├───1_Intro
+├───2_Basic_IO
+├───3_Control_Statements
+├───4_Functions
+├───5_Arrays_Strings
+├───6_Structures
+├───7_Pointers
+└───8_File_IO
 ```
 
 FORTRAN part: TBD
